@@ -1,0 +1,15 @@
+{
+  "name": "suzuextension",
+  "version": "0.0.1",
+  "description": "Chrome Extension to enhance my web experience.",
+  "scripts": {
+    "build": "tsc && vite build --emptyOutDir"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chrome": "^0.0.268",
+    "typescript": "^5.4.5",
+    "vite": "^5.2.11"
+  }
+}
